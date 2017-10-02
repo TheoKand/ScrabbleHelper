@@ -6,4 +6,5 @@
 - The data file contains 108000 english words and can be extended
 
 Screenshot :
-https://github.com/TheoKand/ScrabbleHelper/blob/master/screenshot.png
+![Main Screen](https://github.com/TheoKand/ScrabbleHelper/blob/master/screenshot.png)
+
